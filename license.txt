@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fridge
+* source:	https://sketchfab.com/3d-models/fridge-444efa942e8d441eb63da6c991c7fd29
+* author:	CharlotteMeehan (https://sketchfab.com/CharlotteMeehan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fridge" (https://sketchfab.com/3d-models/fridge-444efa942e8d441eb63da6c991c7fd29) by CharlotteMeehan (https://sketchfab.com/CharlotteMeehan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
