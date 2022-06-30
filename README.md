@@ -6,3 +6,5 @@
 
 ### None of these models are my own and were acquired from various model repo websites for free.
 #### All models were acquired legally, and this scene is not being used for commercial purposes.
+
+##### This project was created solely in Visual Studio Code using the Live Server extension to view the scene in a local server.
